@@ -25,7 +25,7 @@ The following animation demonstrates the application functionality:
 ![day planner demo](Assets/img/WorkDayScheduler.gif)
 
 ## Link
-Launch Code Quiz [Here](https://lionhatt.github.io/Work-Day-Scheduler/)
+Launch Work Day Scheduler [Here](https://lionhatt.github.io/Work-Day-Scheduler/)
 
 ## License
 MIT License
