@@ -40,7 +40,7 @@ for (var i = 0; i < 23; i++) {
 function timeTheme() {
     if (i < d.format("HH")) {
         $(newTextArea).addClass("past");
-    } else if (i === d.format("HH")) {
+    } else if (i == d.format("HH")) {
         $(newTextArea).addClass("present");
     } else if (i > d.format("HH")) {
         $(newTextArea).addClass("future");
